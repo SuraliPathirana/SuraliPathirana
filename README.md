@@ -88,7 +88,6 @@ Here are some ideas to get you started:
    
     <!-- hackerrank  -->
     <a href="https://www.hackerrank.com/suvip0303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suvip0303" height="30" width="40" /></a>
-  
     
 </p>
 
