@@ -68,8 +68,7 @@ Here are some ideas to get you started:
 
 <h4 align="left">Tools:</h4>
 <p align="left">
-    <!-- Postman -->
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  
     <!-- Figma -->
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
     <!-- Git -->
@@ -80,9 +79,8 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <!-- Gmail -->
-    <a href="mailto:suralipathirana98@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="surali.pathirana.374" height="30" width="40" /></a>
-    <!-- facebook -->
-    <!a href="https://fb.com/devin.dissanayake.374" target="_blank"><!img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devin.dissanayake.374" height="30" width="40" /></a>
+    <a href="mailto:suralipathiranav@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="surali.pathirana.374" height="30" width="40" /></a>
+    
     <!-- linkedin   -->
     <a href="https://linkedin.com/in/surali-pathirana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suralipathirana" height="30" width="40" /></a>
    <!-- hackerrank  -->
