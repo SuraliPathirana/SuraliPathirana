@@ -85,11 +85,10 @@ Here are some ideas to get you started:
     <!a href="https://fb.com/devin.dissanayake.374" target="_blank"><!img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devin.dissanayake.374" height="30" width="40" /></a>
     <!-- linkedin   -->
     <a href="https://linkedin.com/in/surali-pathirana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suralipathirana" height="30" width="40" /></a>
-   
-    <!-- hackerrank  -->
-    <a href="https://www.hackerrank.com/suvip0303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suvip0303" height="30" width="40" /></a>
-    
+   <!-- hackerrank  -->
+    <a href="https://www.hackerrank.com/suvip0303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suvip0303" height="30" width="40" /></a> -->
 </p>
+   
 
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suralipathirana&show_icons=true&locale=en" alt="suralipathirana" /></p>
