@@ -49,7 +49,7 @@ Here are some ideas to get you started:
     <!--ReactJS-->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
     <!--Laravel-->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="20" height="20"/>
     <!--Flutter-->
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
     <!--TailwindCSS-->
@@ -80,15 +80,15 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <!-- Gmail -->
-    <a href="mailto:devindsnk@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="devin.dissanayake.374" height="30" width="40" /></a>
+    <a href="mailto:suralipathirana98@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="surali.pathirana.374" height="30" width="40" /></a>
     <!-- facebook -->
-    <a href="https://fb.com/devin.dissanayake.374" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devin.dissanayake.374" height="30" width="40" /></a>
+    <!a href="https://fb.com/devin.dissanayake.374" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devin.dissanayake.374" height="30" width="40" /></a>
     <!-- linkedin   -->
-    <a href="https://linkedin.com/in/devindissanayake" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devindissanayake" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/suralipathirana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suralipathirana" height="30" width="40" /></a>
     <!-- behance -->
-    <a href="https://www.behance.net/devindissanayake" target="_blank"><img align="center" src="https://cdn.cdnlogo.com/logos/b/29/behance.svg" alt="devindissanayake" height="30" width="40" /></a>
+    <!a href="https://www.behance.net/devindissanayake" target="_blank"><img align="center" src="https://cdn.cdnlogo.com/logos/b/29/behance.svg" alt="devindissanayake" height="30" width="40" /></a>
     <!-- hackerrank  -->
-    <a href="https://www.hackerrank.com/daredevil25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="daredevil25" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/suvip0303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suvip0303" height="30" width="40" /></a>
     <!-- dribble -->
     <!-- <a href="https://dribbble.com/devindissanayake" target="_blank"><img align="center" src="https://iconape.com/wp-content/files/qh/55191/svg/dribbble-icon-1.svg" alt="devindissanayake" height="30" width="40" /></a> -->
     <!-- codeforces  -->
@@ -96,12 +96,11 @@ Here are some ideas to get you started:
 </p>
 
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daredevil25&show_icons=true&locale=en" alt="daredevil25" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suralipathirana&show_icons=true&locale=en" alt="suralipathirana" /></p>
 
 <!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daredevil25&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suralipathirana&layout=compact&theme=vision-friendly-dark)
 
-**daredevil25/daredevil25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
