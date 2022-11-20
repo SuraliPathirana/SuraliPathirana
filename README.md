@@ -78,8 +78,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <!-- Gmail -->
-    <a href="mailto:suralipathiranav@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="surali.pathirana.374" height="30" width="40" /></a>
-    
+    <a href="mailto:suralipathiranav@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="surali.pathirana.374" height="30" width="40" /></a>    
     <!-- linkedin   -->
     <a href="https://linkedin.com/in/surali-pathirana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suralipathirana" height="30" width="40" /></a>
    <!-- hackerrank  -->
