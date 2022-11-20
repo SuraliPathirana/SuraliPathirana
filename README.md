@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### So... If you don't know me yet 🙂
 - 🎓 I'm a 3rd year Computer Engineering undergraduate at University of Sri Jayewardenepura.
-- 🌱 Currently I'm learning ReactJS,Flutter and Firebase and Tensorflow.
+- 🌱 Currently I'm learning ReactJS and Tensorflow.
 - 🚀 Apart from coding I am interested in Astronomy and I enjoy travelling.
 
 <h3 align="left">Familiar Technologies</h3>
