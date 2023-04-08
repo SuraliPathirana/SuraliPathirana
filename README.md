@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 Currently I'm learning ReactJS and Tensorflow.
 - 🚀 Apart from coding I am interested in Astronomy and I enjoy travelling.
 
-![octocat-1680973375357](https://user-images.githubusercontent.com/78686787/230733993-c19b960f-ea76-4225-a211-59238ba8afd5.png)
+<img src="https://user-images.githubusercontent.com/78686787/230733993-c19b960f-ea76-4225-a211-59238ba8afd5.png" height=50% width=50% >
 
 
 <h3 align="left">Familiar Technologies</h3>
