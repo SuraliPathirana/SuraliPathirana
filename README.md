@@ -1,107 +1,46 @@
-<!-- ### Hi there 👋 -->
+## Hey there! I'm Surali <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="25px" width="25px">
 
-<!--
-**SuraliPathirana/SuraliPathirana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineer working on applied ML, computer vision and LLM systems. Based in Sri Lanka.
 
-Here are some ideas to get you started:
+### About me
+- 💼 Engineer, Big Data and Data Science at **Mobitel**, Sri Lanka. Technical lead across several AI initiatives.
+- 🎓 MSc in Data Science and AI at **University of Moratuwa** (2026 onwards).
+- 🎓 BSc (Hons) Computer Engineering, First Class, **University of Sri Jayewardenepura** (2024).
+- 🏢 Previously Software Engineer at **LSEG (Millennium IT)** and intern at **Creative Software**.
+- 🏆 NBQSA 2024 Merit Award for **GEN2REC**, a RAG-based recommendation framework.
+- 🚀 Outside work: astronomy and travelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Hey There! I'm Surali. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="25px" width="25px">
+### What I work on
+- Production ML under real constraints: on-prem deployment, data privacy compliance, tight budgets
+- LLM applications: agents, RAG, natural language to SQL
+- Speech and language tech for low-resource languages, especially Sinhala
+- Computer vision for document and identity workflows
 
-### So... If you don't know me yet 🙂
-- 🎓 I'm a 3rd year Computer Engineering undergraduate at University of Sri Jayewardenepura.
-- 🌱 Currently I'm learning ReactJS and Tensorflow.
-- 🚀 Apart from coding I am interested in Astronomy and I enjoy travelling.
+### Research interests
+- Foundation models and multimodal (vision + language) reliability
+- LLM alignment and RL post-training
+- Undergrad thesis: LLM alignment using offline RL with synthetic feedback (Llama 2)
 
-<img src="https://user-images.githubusercontent.com/78686787/230739802-d5ae53e3-f82a-4767-904b-eeb5f369fb2a.gif" height=30% width=30% >
+📫 Open to research collaborations in these areas.
 
-
-<h3 align="left">Familiar Technologies</h3>
-<h4 align="left">Programming Languages:</h4>
+### Tech stack
+**Languages**
 <p align="left">
-    <!-- C++ -->
-    <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" alt="cplusplus" width="40" height="40"/>
-    <!-- Python -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <!--HTML-->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <!--CSS-->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <!-- PHP -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    <!-- JavaScript -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <!--TypeScript -->
-    <!--
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    -->
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" />
 </p>
 
-<h4 align="left">Frameworks, Platforms & Libaries:</h4>
+**ML and AI**
 <p align="left">
-    <!--NodeJS-->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="react" width="40" height="40" />
-    <!--ReactJS-->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
-    <!--Laravel-->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="20" height="20"/>
-    <!--TailwindCSS-->
-    <!--
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    -->
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
 </p>
 
-<h4 align="left">DBMS:</h4>
+**Data, backend and infra**
 <p align="left">
-    <!--MySQL-->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    <!--MongoDB-->
-    <!img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,fastapi,nodejs,docker,linux,git" />
 </p>
 
-<h4 align="left">Tools:</h4>
+### Connect with me
 <p align="left">
-    <!-- Figma -->
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    <!-- Git -->
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <a href="mailto:suralipathiranav@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/surali-pathirana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <!-- Gmail -->
-    <a href="mailto:suralipathiranav@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="surali.pathirana.374" height="30" width="40" /></a>    
-    <!-- linkedin   -->
-    <a href="https://linkedin.com/in/surali-pathirana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suralipathirana" height="30" width="40" /></a>
-   <!-- hackerrank  -->
-    <a href="https://www.hackerrank.com/suvip0303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suvip0303" height="30" width="40" /></a>
-</p>
-   
-
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suralipathirana&show_icons=true&locale=en" alt="suralipathirana" /></p>
-
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suralipathirana&layout=compact&theme=vision-friendly-dark)
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
